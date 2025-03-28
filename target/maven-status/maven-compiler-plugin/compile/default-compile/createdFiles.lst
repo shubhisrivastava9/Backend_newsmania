@@ -1,0 +1,5 @@
+com/newsmania/newsmania/Dao/Newsdatabase.class
+com/newsmania/newsmania/Repo/Datarepo.class
+com/newsmania/newsmania/Controller/Controllerclass.class
+com/newsmania/newsmania/NewsmaniaApplication.class
+com/newsmania/newsmania/Service/Newsservice.class
